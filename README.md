@@ -19,7 +19,7 @@ Javascript / React <br>
 -->
 
 ### ✨Activity 
-오픈소스 <a href="https://twitter.com/geunu97">Interview_Question_for_Beginner</a> 컨트리뷰터
+오픈소스 <a href="https://github.com/JaeYeopHan/Interview_Question_for_Beginner">Interview_Question_for_Beginner</a> 컨트리뷰터
 
 <br>
 
