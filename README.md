@@ -18,7 +18,7 @@ Javascript / React <br>
 - ......  (2022.xx ~ )
 -->
 
-### 🔻Activity
+### 🔗Activity
 오픈소스 <a href="https://github.com/JaeYeopHan/Interview_Question_for_Beginner">Interview_Question_for_Beginner</a> 컨트리뷰터
 
 <br>
