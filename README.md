@@ -18,6 +18,7 @@
 
 #### 📜 Activity
 - 오픈소스 <a href="https://github.com/JaeYeopHan/Interview_Question_for_Beginner">Interview_Question_for_Beginner</a> 컨트리뷰터
+- 오픈소스 <a href="https://github.com/javascript-tutorial/ko.javascript.info">Modern Javascript</a> 컨트리뷰터
 
 <!--
 #### Work Experience 
