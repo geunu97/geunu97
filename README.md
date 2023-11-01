@@ -13,8 +13,10 @@
 
 #### 👨‍💻 Introduction
 - 박근우 
+- Javascript / React
+<!-- 
 - Front-End Engineer 
-- Javascript / React 
+-->
 
 <!--
 #### 📜 Activity
@@ -28,11 +30,12 @@
 - ......  (2022.xx ~ )
 -->
 
+<!--
 #### 🦴 Others
 [![github stats](https://github-readme-stats.vercel.app/api?username=geunu97&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=olo90632951)](https://solved.ac/olo90632951/) 
-
+-->
 
 
 
