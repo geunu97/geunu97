@@ -25,8 +25,10 @@
 - 오픈소스 <a href="https://github.com/javascript-tutorial/ko.javascript.info">Modern Javascript</a> 컨트리뷰터
 -->
 
+<!--
 #### Work Experience 
-- 한류뱅크 (2023.04 ~ )
+- 한류뱅크 (2023.04 ~ 2023.12)
+-->
 
 #### 🦴 Others
 [![github stats](https://github-readme-stats.vercel.app/api?username=geunu97&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
